@@ -1,0 +1,106 @@
+{
+  
+  "name": "code_step",
+  
+  "version": "0.1.0",
+  
+  "private": true,
+  
+  "scripts": {
+  
+    
+  "dev": "next dev",
+  
+    
+  "build": "next build",
+  
+    
+  "start": "next start",
+  
+    
+  "lint": "next lint"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "@fortawesome/free-solid-svg-icons": "^6.4.2",
+  
+    
+  "@fortawesome/react-fontawesome": "^0.2.0",
+  
+    
+  "@heroicons/react": "^2.0.18",
+  
+    
+  "@types/node": "20.5.9",
+  
+    
+  "@types/react": "18.2.21",
+  
+    
+  "@types/react-dom": "18.2.7",
+  
+    
+  "autoprefixer": "10.4.15",
+  
+    
+  "bcryptjs": "^2.4.3",
+  
+    
+  "dotenv": "^16.3.1",
+  
+    
+  "eslint": "8.48.0",
+  
+    
+  "eslint-config-next": "13.4.19",
+  
+    
+  "font-awesome": "^4.7.0",
+  
+    
+  "js-cookie": "^3.0.5",
+  
+    
+  "next": "13.4.19",
+  
+    
+  "next-auth": "^4.23.1",
+  
+    
+  "pg": "^8.11.3",
+  
+    
+  "pg-promise": "^11.5.4",
+  
+    
+  "postcss": "8.4.29",
+  
+    
+  "react": "18.2.0",
+  
+    
+  "react-crud-icons": "^1.2.3",
+  
+    
+  "react-dom": "18.2.0",
+  
+    
+  "react-modal": "^3.16.1",
+  
+    
+  "react-select": "^5.7.5",
+  
+    
+  "sweetalert2": "^11.7.27",
+  
+    
+  "tailwindcss": "3.3.3",
+  
+    
+  "typescript": "5.2.2"
+  
+  }
+}

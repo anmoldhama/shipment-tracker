@@ -1,0 +1,21 @@
+.modalBackground {
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .modalCard {
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  
+  .modalHeader {
+    background-color: #f0f0f0;
+  }
+  
+  .modalBody {
+    padding: 20px;
+  }
+  
+  .submitButton {
+    margin-top: 20px;
+  }
+  
